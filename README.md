@@ -4,6 +4,7 @@ A project to creates a bicycle odometer & speedometer display on a 2-lines LCD s
 The goals are to make a bike display system that's cheaper than what's in the markets. The other goal is to teach us how to work on a project from designing, parts selection, coding and mechanics of installation. Since this is the first for 3 of us working on a project.
 In phase two, if time permit, we will add dynamo hub, with nighttime safety-light.
 [Canva poster](https://www.canva.com/design/DAGVflE4BL0/WsdJF2ZhlIYSVBW4cxWxDg/edit)
+![G6 ระบบวัดความเร็วจักรยานด้วยเซนเซอร์ Hall A3144.png](https://github.com/Chettanat-Pa/bike-display-from-cadence-sensor/blob/main/G6%20%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%20Hall%20A3144.png)
 
 Parts of bachelor's course: ELECTRIC CIRCUITS (05366023), 1/2024
 
@@ -28,8 +29,11 @@ This project is based off: [jessejwk's Bike Better With an LED Cadence Meter](ht
 - [1602 LCD (Blue Screen) 16x2 LCD with backlight of the LCD screen](https://www.allnewstep.com/product/142/1602-lcd-blue-screen-16x2-lcd-with-backlight-of-the-lcd-screen)
 - Mounting case
 
-# Collaborators contribution
+# Circuit diagram
+![Bike display - Circuit diagram.png](https://github.com/Chettanat-Pa/bike-display-from-cadence-sensor/blob/main/Bike%20display%20-%20Circuit%20diagram.png)
+
+# Members
 1. ปั๊บ: Sensor, poster
 2. พจน์: Operation scheme, power, mount case
-3. [Chettanat Padungatthakij](https://github.com/Chettanat-Pa): Project manager, code, poster
-4. กาย: Code, test
+3. [Chettanat Pa.](https://github.com/Chettanat-Pa): Project manager, code, poster
+4. [PheerapatGuy](https://github.com/PheerapatGuy): Code, test
